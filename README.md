@@ -22,21 +22,21 @@ The implementation uses a **card-based design with CSS Grid and Flexbox** for op
 
 ## 🔗 Demo Pages
 
-- **Main Application**: `https://react-ecommerce-assignment-cyan.vercel.app/`
-- **Implemented New Design**: `https://react-ecommerce-assignment-cyan.vercel.app/new-arrivals`
+- **Main Application**: `https://react-ecommerce-task.vercel.app/`
+- **Implemented New Design**: `https://react-ecommerce-task.vercel.app/new-arrivals`
 
 ## 📦 Installation & Setup
 
 Clone the project
 
 ```bash
-git clone https://github.com/ThulanjanaGit/react-ecommerce-assignment.git
+git clone https://github.com/ThulanjanaGit/react-ecommerce-task.git
 ```
 
 Go to the project directory
 
 ```bash
-cd react-ecommerce-assignment
+cd react-ecommerce-task
 ```
 
 Install dependencies
