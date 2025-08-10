@@ -10,6 +10,7 @@ import {
   Home,
   Product,
   Products,
+  NewArrivals,
   AboutPage,
   ContactPage,
   Cart,
@@ -30,6 +31,7 @@ root.render(
           <Route path="/" element={<Home />} />
           <Route path="/product" element={<Products />} />
           <Route path="/product/:id" element={<Product />} />
+          <Route path="/new-arrivals" element={<NewArrivals />} />
           <Route path="/about" element={<AboutPage />} />
           <Route path="/contact" element={<ContactPage />} />
           <Route path="/cart" element={<Cart />} />
